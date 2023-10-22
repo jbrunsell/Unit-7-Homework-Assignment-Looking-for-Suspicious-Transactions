@@ -10,14 +10,14 @@ Answer:
 
 The graph below shows the count of transactions <$2  per card holder. Most of the card holders have significant counts above twenty. Megan Price has the most small transactions and should be checked first.
 
-![alt text](.\Images\graph_visualiser-1697992866188.png)
+![alt text](./Images/graph_visualiser-1697992866188.png)
 
 Taking a look at top 100 transactions between 7a and 9a, there are 5 out of the 100 transactions that are quite large and worth investigation.
 
-![alt text](.\Images\graph_visualiser-1697993875922.png)
+![alt text](./Images/graph_visualiser-1697993875922.png)
 
 Here is a graph of the top 100 transactions taking place outside the 7a-9a window:
-![alt text](.\Images\graph_visualiser-1697994508457.png)
+![alt text](./Images/graph_visualiser-1697994508457.png)
 
 Given the similar shape of several large transactions and then quickly tapering off to $50 or less transactions, it's hard to judge whether there's truly more fraudulent transactions in either time period.
 
